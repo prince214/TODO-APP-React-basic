@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background: rgb(231, 231, 231);
+}
+.no-bullets {
+  list-style-type: none;
+  padding: 0;
+}
+.mark_as_complete {
+  text-decoration: line-through;
+}
